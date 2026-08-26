@@ -33,4 +33,4 @@ This is a personal repository, but if you spot an error or have a suggestion, fe
 Comming soon...
 
 ## Contact
-Github: @GeistAsim
+Github: [@GeistAsim](https://github.com/GeistAsim)
