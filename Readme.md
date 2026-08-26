@@ -30,7 +30,7 @@ git checkout <branch name> #e.g. linux, wallpaper or windows
 This is a personal repository, but if you spot an error or have a suggestion, feel free to open an issue or pull request. For major chnages, please open an issue first to discuss what would you like to chnage.
 
 ## License
-Comming soon...
+Coming soon...
 
 ## Contact
 Github: [@GeistAsim](https://github.com/GeistAsim)
