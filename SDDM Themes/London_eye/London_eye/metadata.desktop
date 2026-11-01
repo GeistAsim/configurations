@@ -1,0 +1,18 @@
+[SddmGreeterTheme]
+Name=London_eye
+Name[fr]=London_eye
+Description=London_eye Theme
+Description[fr]=Thème London eye
+Author=Dominique Bribanick
+Copyright=(c) 2014, Dominique Bribanick
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=London_eye.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=chepioq@gmail.com
+Theme-Id=breeze
+Theme-API=2.0
